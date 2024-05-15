@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Sahil Potdukhe</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p> Hi there! I'm a dedicated Software Engineer specializing in mobile app development. With a strong foundation in Computer Science from IIIT Vadodara, I excel in creating impactful applications using Flutter, Firebase, and cloud platforms.My professional journey includes internships at Amazon and Cloudy-ML, where I've contributed to projects enhancing user interaction, authentication systems, and app performance. Projects like ECHAT, HEYTALKAI, and an e-commerce app showcase my expertise in building feature-rich, user-friendly apps. Alongside, I've collaborated on projects like the Movies App and CODRR, demonstrating versatility and teamwork.</p>
