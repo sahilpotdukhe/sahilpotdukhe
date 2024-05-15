@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Potdukhe</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<p> Hi there! I'm a dedicated Software Engineer specializing in mobile app development. With a strong foundation in Computer Science from IIIT Vadodara, I excel in creating impactful applications using Flutter, Firebase, and cloud platforms.My professional journey includes internships at Amazon and Cloudy-ML, where I've contributed to projects enhancing user interaction, authentication systems, and app performance. Projects like ECHAT, HEYTALKAI, and an e-commerce app showcase my expertise in building feature-rich, user-friendly apps. Alongside, I've collaborated on projects like the Movies App and CODRR, demonstrating versatility and teamwork.</p>
 
-<img align="right" alt="coding" width="400" src="cdcedcde">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilpotdukhe&label=Profile%20views&color=0e75b6&style=flat" alt="sahilpotdukhe" /> </p>
 
@@ -9,11 +10,9 @@
 
 - 🔭 I’m currently working on **Advanced Flutter Development and Mastery of Data Structures and Algorithms**
 
-- ❤️ I love making **Apps and UI/UX Designing**
-
 - 👯 I’m looking to collaborate on **Large-scale App Development Ventures**
 
-- 💪 I’m good in **App Development in Flutter and Firebase**
+- 💪 I’m good in **App Development in Flutter, Firebase and UI/UX Designing**❤️
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
