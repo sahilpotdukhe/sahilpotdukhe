@@ -16,7 +16,7 @@
 
 - 💪 I’m good in **App Development in Flutter, Firebase and UI/UX Designing**❤️
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://sahilpotdukhe.github.io/Portfolio-website/)
 
 - 💬 Ask me about **Flutter, Firebase, Figma**
 
